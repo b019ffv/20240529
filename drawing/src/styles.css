@@ -1,0 +1,9 @@
+body {
+  overflow: hidden;
+}
+#draw-area {
+  background-color: #114499; /* キャンバスの背景色を設定 */
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #000;
+}
